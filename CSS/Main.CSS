@@ -10,3 +10,8 @@ img{
 img.profile{
   width: 250px;
 }
+@media screen and (min-width: 480px){
+ body{
+    background-color: #CDB5CD;
+  }
+}
